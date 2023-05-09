@@ -6,4 +6,4 @@ You notice that there is a gate on the western side of the garden and decide to 
 
 As a result, you jump out of the bed and start a busy day.
 
-*THE END*
+*-THE END-*
