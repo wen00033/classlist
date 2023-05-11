@@ -1,4 +1,4 @@
-# Continuation alternative story
+# [Continuation alternative story](/intro-no.md)
 
 You quickly shake off the lingering feeling of the dream and focus on getting ready for school. As you rush around your room, throwing clothes on and grabbing your backpack, you can't help but feel a sense of unease. The dream felt so real, and the creatures in the cavern still haunt your thoughts.
 
