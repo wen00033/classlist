@@ -4,6 +4,6 @@ You notice that there are two gates in the garden. One is on the western side, a
 
 "It is so weird!" You think. When you think the black chess will stop moving, it moves to you faster and faster. You try to run away from it, but you find you can't move because you are stuck on the checkerboard. At the moment that you think it is going to hit you, you scream and close your eyes. However, after a few seconds, you don't get hit. Since you are confused, you open your eyes and find you are lying on your bed. Then, you realize that it was just a dream, and the worst thing is that you are running late for school!
 
-As a result, you jump out of bed and start a busy day.
+As a result, you jump out of bed and start a [busy day...](/cont_alt_intro.md)
 
 *-THE END-*
