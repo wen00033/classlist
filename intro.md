@@ -4,5 +4,5 @@ You find yourself standing in a beautiful garden. It seems with all the birds of
 
 This is the place you belong. Still, you are restless and lonely. You begin to explore your surroundings. At the western edge of the garden, there is a gate. Do you walk through?
 
-1. [Yes](/q1-yes.md)
-2. No
+1. [Yes](/intro_cont.md)
+2. [No](/intro-no.md)
