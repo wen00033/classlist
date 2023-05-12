@@ -6,4 +6,6 @@ Without hesitation, you step through the gate and begin to explore this new land
 
 You walk for what seems like hours, your sense of wonder growing with each passing moment. Eventually, you come to a clearing where you see a group of people gathered around a fire. They welcome you warmly, and you sit with them, listening to their stories and sharing in their food.
 
-[Continuation alternative story](/intro.md)
+_-THE END-_
+
+# [Continuation alternative story](/intro.md)
